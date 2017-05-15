@@ -10,4 +10,6 @@ body{
   background: -ms-radial-gradient(center, ellipse cover, rgba(250,243,242,1) 0%, rgba(245,237,235,1) 19%, rgba(93,142,240,1) 50%, rgba(47,12,245,1) 51%, rgba(5,2,2,1) 71%, rgba(3,0,0,1) 100%);
   background: radial-gradient(ellipse at center, rgba(250,243,242,1) 0%, rgba(245,237,235,1) 19%, rgba(93,142,240,1) 50%, rgba(47,12,245,1) 51%, rgba(5,2,2,1) 71%, rgba(3,0,0,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#faf3f2', endColorstr='#030000', GradientType=1 );
+  color: white;
 }
+
